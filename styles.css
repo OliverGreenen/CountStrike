@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #eefffe;
+    color: #0139dd;
+}
+
+#when-to-click-display {
+    position: fixed;
+    top: 10px;
+    font-size: 2em;
+}
+
+#number-display {
+    font-size: 10em;
+    font-family: "Bree Serif";
+}
